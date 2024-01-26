@@ -1,4 +1,7 @@
-# Real C64 keyboard to USB Adapter Arduino Firmware
+# Real C64 keyboard to USB Adapter Arduino Firmware Leonardo Edit
+
+Note this has an edited version of the ardino code for leonardo board as i found the MISO pin wold not work so i swapped it to pin 11
+
 
 Arduino Pro Micro code that allows you to use a real C64 Keyboard via USB, not just with Vice on Mac/Windows/Linux/RetroPie, but also Ultimate64, BMC64, MiSTer FPGA, etc.
 
